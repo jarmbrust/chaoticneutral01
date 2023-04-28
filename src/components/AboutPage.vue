@@ -5,6 +5,9 @@ import PageHeader from './PageHeader.vue';
 <template>
   <PageHeader title="About me..." />
   <div class="about">
-    I am soooo interesting!
+    <p>
+      I will post more about myself soon, but for now, know that 
+      I am a pretty cool and happening dude.
+    </p>
   </div>
 </template>

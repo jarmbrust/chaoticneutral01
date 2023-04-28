@@ -5,7 +5,12 @@ import PageHeader from './PageHeader.vue';
 <template>
   <PageHeader title="Hello!" />
   <div class="welcome">
-    This is a welcome page to test the deployments.
+    <p>
+      Welcome to an awesome site!
+    </p>
+    <p>
+      ...or one that will be so in the (hopefully) near future.
+    </p>
   </div>
 </template>
 
